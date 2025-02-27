@@ -22,3 +22,5 @@ tasks.withType(JavaCompile) {
 test {
     useJUnitPlatform()
 }
+
+// ХУИТА
